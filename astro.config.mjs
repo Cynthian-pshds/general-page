@@ -31,7 +31,7 @@ const oklchToHex = (str) => {
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://fuwari.vercel.app/",
+  site: 'https://general.pengxianzhe.org/',
   base: "/",
   trailingSlash: "always",
   integrations: [
@@ -39,8 +39,8 @@ export default defineConfig({
     swup({
       theme: false,
       animationClass: 'transition-swup-',   // see https://swup.js.org/options/#animationselector
-                                            // the default value `transition-` cause transition delay
-                                            // when the Tailwind class `transition-all` is used
+      // the default value `transition-` cause transition delay
+      // when the Tailwind class `transition-all` is used
       containers: ['main'],
       smoothScrolling: true,
       cache: true,
