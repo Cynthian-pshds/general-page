@@ -1,9 +1,48 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 使用说明
 
-::github{repo="saicaca/fuwari"}
+- 点击左上角和正上方都可以回到本站首页
+- 点击小亭子按钮可以回到域名主页
+- 点击右上角调色盘可以给视觉界面调颜色
+---
+# 网站介绍
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+## 内容范围
+
+&emsp;&emsp;**没有**和
+[教育](https://education.pengxianzhe.org)
+[研究](https://academic.pengxianzhe.org)
+[工作](https://industry.pengxianzhe.org)
+[市场](https://commercial.pengxianzhe.org)
+[公共](https://public.pengxianzhe.org)
+[文艺](https://arts.pengxianzhe.org)
+相关的内容。
+
+## 源代码存储库
+
+&emsp;&emsp;欢迎提出修改意见
+
+::github{repo="Cynthian-pshds/general-page"}
+
+## 建站原因
+
+&emsp;&emsp;原本适合「发帖」的场合是大型平台，例如
+[新浪博客](https://blog.sina.com.cn/)
+[豆瓣广播](https://www.douban.com/)
+[知乎专栏](https://zhuanlan.zhihu.com/)
+[微信公众平台](https://mp.weixin.qq.com/)
+[今日头条号](https://mp.toutiao.com/)
+等等。之所以另建网站，是因为这些平台存在问题。
+
+&emsp;&emsp;后现代社会和现代社会的商业互联网是两种截然不同的业态。后现代社会里，行业巨头开发的平台并没有现代社会互联网精神的基本操守。在网络虚拟世界中，它们的世俗行为模式是原始社会依靠暴力建立统治的土匪团伙；但与此同时，由于躲在现实资产阶级法权的背后，它们的精神行为模式并不需要任何政教合一的美化和规制，可以做任何亡命匪徒想做而无力做的事。烧杀抢掠，都只是最温和的了。
+
+### 你刚过河，他们拆桥
+
+&emsp;&emsp;知乎专栏原本有「收藏」功能，读者可以及时得到更新通知，以及在自己的收藏夹中找到别人写的专栏。然而，知乎直接删除了这一功能，让专栏变成了一幅要点进作者个人主页才能找到的网页。这是设计给谁用的呢？甚至不如上古时期的博客网站便利。本来因为可以被收藏、被关注才写知乎专栏的作者，这下写到一半了，还写不写呢？
+
+### 烧杀
+
+&emsp;&emsp;2019年，百度贴吧在事先没有任何公开说明的情况下「隐藏」了（事后才赶忙发通知自称是隐藏，唯一合理解释是缺乏内行监督的技术漏洞造成的巨大破坏）2017年之前的一切帖子。十几年以来，中国大陆互联网的专业领域公开内容，就此毁半壁江山于一旦。而原因仅仅是，一家已经当时从一流沦为二流的科技企业，它的众多子公司当中，盈利能力最差的那一个，想把来年的利润往上微调一些。
+
+### 抢掠
+
+&emsp;&emsp;一件非常幽默的例子是，百度贴吧在用户注册协议中写明了用户创作的一切内容归百度公司所有，而且是自古以来、一以贯之的。我在11岁时注册百度账号，粗略浏览了一遍用户协议，注意到这一条款时，对百度公司的商业创意、法律意识佩服得五体投地。四年过去以后，2018年，有另一位网民注册百度账号时，也看完了正常人都不会点开看的用户协议，告知了一批网络新媒体。它们连环引燃式地报道了这一「新奇发现」，引起了一阵短暂的公众讨论。我在对真的会看用户协议的人之罕见感到无奈之余，再次对百度公司油然升起高山仰止的崇敬之情。
