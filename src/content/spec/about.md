@@ -9,12 +9,12 @@
 ## 内容范围
 
 &emsp;&emsp;**没有**和
-[教育](https://education.pengxianzhe.org)
-[研究](https://academic.pengxianzhe.org)
-[工作](https://industry.pengxianzhe.org)
-[市场](https://commercial.pengxianzhe.org)
-[公共](https://public.pengxianzhe.org)
-[文艺](https://arts.pengxianzhe.org)
+<a href="https://education.pengxianzhe.org" target="_blank">**教育**</a>
+<a href="https://notes.pengxianzhe.org" target="_blank">**研究**</a>
+<a href="https://industry.pengxianzhe.org" target="_blank">**工作**</a>
+<a href="https://commercial.pengxianzhe.org" target="_blank">**市场**</a>
+<a href="https://public.pengxianzhe.org" target="_blank">**公共**</a>
+<a href="https://arts.pengxianzhe.org" target="_blank">**文艺**</a>
 相关的内容。
 
 ## 源代码存储库
@@ -26,13 +26,12 @@
 ## 建站原因
 
 &emsp;&emsp;原本适合「发帖」的场合是大型平台，例如
-[新浪博客](https://blog.sina.com.cn/)
-[豆瓣广播](https://www.douban.com/)
-[知乎专栏](https://zhuanlan.zhihu.com/)
-[微信公众平台](https://mp.weixin.qq.com/)
-[今日头条号](https://mp.toutiao.com/)
-等等。之所以另建网站，是因为这些平台存在问题。
-
+<a href="https://blog.sina.com.cn/" target="_blank">**新浪博客**</a>
+<a href="https://m.douban.com/status/" target="_blank">**豆瓣广播**</a>
+<a href="https://zhuanlan.zhihu.com/" target="_blank">**知乎专栏**</a>
+<a href="https://mp.weixin.qq.com/" target="_blank">**微信公众平台**</a>
+<a href="https://mp.toutiao.com/" target="_blank">**今日头条号**</a>
+等等。之所以另建网站，自然是因为这些平台存在不能绕开的问题。  
 &emsp;&emsp;后现代社会和现代社会的商业互联网是两种截然不同的业态。后现代社会里，行业巨头开发的平台并没有现代社会互联网精神的基本操守。在网络虚拟世界中，它们的世俗行为模式是原始社会依靠暴力建立统治的土匪团伙；但与此同时，由于躲在现实资产阶级法权的背后，它们的精神行为模式并不需要任何政教合一的美化和规制，可以做任何亡命匪徒想做而无力做的事。烧杀抢掠，都只是最温和的了。
 
 ### 你刚过河，他们拆桥
