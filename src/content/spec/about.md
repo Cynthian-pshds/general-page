@@ -12,7 +12,7 @@
 
 ::github{repo="Cynthian-pshds/general-page"}
 
-(以上卡片显示在&thinsp;2024&thinsp;年出现故障，尚未排查成功)
+(以上卡片显示在&thinsp;2024&thinsp;下半年出现故障，尚未排查成功)
 
 ## 建站原因
 
