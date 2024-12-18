@@ -14,6 +14,10 @@ export const siteConfig: SiteConfig = {
     hue: 250,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
     fixed: false,     // Hide the theme color picker for visitors
   },
+  toc: {
+    enable: true,     // Enable or disable the table of contents
+    depth: 3
+  },
   banner: {
     enable: false,
     src: 'assets/images/FROMWEST.png', // Relative to the /src directory. Relative to the /public directory if it starts with '/'
@@ -39,8 +43,8 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Archive,
     LinkPreset.About,
     {
-      name: 'iCity',
-      url: 'https://icity.ly/u/ketinkanon', // Internal links should not include the base path, as it is automatically added
+      name: '红叶',
+      url: 'https://arts.pengxianzhe.org', // Internal links should not include the base path, as it is automatically added
       external: true, // Show an external link icon and will open in a new tab
     },
   ],
