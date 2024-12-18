@@ -10,7 +10,7 @@
 
 &emsp;&emsp;欢迎提出修改意见
 
-::github{repo="cynthian-pshds/general-page"}
+::github{repo="Cynthian-pshds/general-page"}
 
 (以上卡片显示在&thinsp;2024&thinsp;年出现故障，尚未排查成功)
 
