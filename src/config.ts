@@ -87,6 +87,6 @@ export const profileConfig: ProfileConfig = {
 
 export const licenseConfig: LicenseConfig = {
   enable: true,
-  name: 'CC BY-NC-SA 4.0',
-  url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-hans',
+  name: 'CC BY-NC-ND 4.0',
+  url: 'https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.zh-hans',
 }
