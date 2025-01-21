@@ -18,9 +18,13 @@
 
 ## 源代码存储库
 
+::github{repo="Cynthian-pshds/general-page"}
+
 &emsp;&emsp;欢迎提出修改意见。
 
-::github{repo="Cynthian-pshds/general-page"}
+&emsp;&emsp;使用的模板库是——
+
+::github{repo='saicaca/fuwari'}
 
 ## 起源
 
