@@ -2,18 +2,18 @@ import Key from '../i18nKey'
 import type { Translation } from '../translation'
 
 export const zh_CN: Translation = {
-  [Key.home]: '主页',
-  [Key.about]: '关于',
-  [Key.archive]: '归档',
+  [Key.home]: '入口',
+  [Key.about]: '说明书',
+  [Key.archive]: '日期线',
   [Key.search]: '搜索',
 
   [Key.tags]: '标签',
   [Key.categories]: '分类',
-  [Key.recentPosts]: '最新文章',
+  [Key.recentPosts]: '最近',
 
   [Key.comments]: '评论',
 
-  [Key.untitled]: '无标题',
+  [Key.untitled]: '无题',
   [Key.uncategorized]: '未分类',
   [Key.noTags]: '无标签',
 
@@ -33,6 +33,6 @@ export const zh_CN: Translation = {
   [Key.more]: '更多',
 
   [Key.author]: '作者',
-  [Key.publishedAt]: '发布于',
+  [Key.publishedAt]: '发布在',
   [Key.license]: '许可协议',
 }

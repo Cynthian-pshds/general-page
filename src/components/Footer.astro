@@ -2,7 +2,6 @@
 
 import { profileConfig } from '../config'
 import { url } from '../utils/url-utils'
-const currentYear = new Date().getFullYear()
 ---
 
 <!--<div class="border-t border-[var(&#45;&#45;primary)] mx-16 border-dashed py-8 max-w-[var(&#45;&#45;page-width)] flex flex-col items-center justify-center px-6">-->
@@ -10,11 +9,14 @@ const currentYear = new Date().getFullYear()
 <!--<div class="transition bg-[oklch(92%_0.01_var(&#45;&#45;hue))] dark:bg-black rounded-2xl py-8 mt-4 mb-8 flex flex-col items-center justify-center px-6">-->
 <div class="transition border-dashed border-[oklch(85%_0.01_var(--hue))] dark:border-white/15 rounded-2xl mb-12 flex flex-col items-center justify-center px-6">
     <div class="transition text-50 text-sm text-center">
-        &copy; <span id="copyright-year">{currentYear}</span> {profileConfig.name}. All Rights Reserved. /
-        <a class="transition link text-[var(--primary)] font-medium" target="_blank" href={url('rss.xml')}>RSS</a> /
-        <a class="transition link text-[var(--primary)] font-medium" target="_blank" href={url('sitemap-index.xml')}>Sitemap</a><br>
-        Powered by
-        <a class="transition link text-[var(--primary)] font-medium" target="_blank" href="https://astro.build">Astro</a> &
-        <a class="transition link text-[var(--primary)] font-medium" target="_blank" href="https://github.com/saicaca/fuwari">Fuwari</a>
+        © {profileConfig.name}｜感谢&thinsp;<a href="https://github.com/saicaca" class="text-[var(--primary)] font-medium link" target="_blank">Saica</a>
+        使用
+        <a href="https://astro.build/" class="text-[var(--primary)] font-medium link" target="_blank">Astro</a>
+        开发的
+        <a href="https://github.com/saicaca/fuwari" class="text-[var(--primary)] font-medium link" target="_blank">Fuwari</a>
+        模板
+        <br>
+        如需转载，请声明<strong>转载行为与作者无关</strong>，严禁涉及盈利用途
+        <br>
     </div>
 </div>
