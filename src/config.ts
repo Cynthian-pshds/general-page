@@ -85,7 +85,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/Cynthian-pshds',
+      url: 'https://github.com/my-pshds',
     },
     {
       name: '微信公众平台个人号',
